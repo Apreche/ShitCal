@@ -1,0 +1,8 @@
+Thank you for registering for ShitCal. You have {{expiration_days}} to activate
+your account.
+
+Your activation key is {{activation_key}}.
+
+<a href="http://shitcal.frontrowcrew.com/accounts/activate/{{activation_key}}/">Click here to activate</a>, or copy and past this into your browser's location bar:
+
+http://shitcal.frontrowcrew.com/accounts/activate/{{activation_key}}/

@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block content %}
+{% if account %}
+<p>Thank you for activating. Please proceed to the <a href="/accounts/login/">login page</a>.</p>
+{% else %}
+<p>Activation failed</p>
+{% endif %}
+{% endblock %}
